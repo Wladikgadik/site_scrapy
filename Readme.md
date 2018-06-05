@@ -5,16 +5,16 @@ Book scraper is a introductory assignment based on scrapy tutorial template.
 
 ### Quick Start
 
-Book scraper requires [Scrapy](https://scrapy.org/) library to run.
+Book scraper requires [Scrapy](https://scrapy.org/) library to run. Please, download the latest version to avoid problems.(Tested at 1.5.0)
 
 For Windows:
 
-    > cd \site_scrapy\tutorial
+    > cd ..\site_scrapy\tutorial
     > scrapy crawl quotes
 
 For Linux:
 
-    $ cd \site_scrapy\tutorial
+    $ cd ../site_scrapy/tutorial
     $ scrapy crawl quotes
 
 But thus the names of books can be seen only in the stdout mixed with log.
